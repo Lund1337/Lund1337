@@ -6,6 +6,4 @@
 
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/AQwiVEE.jpg)
 
-[product-screenshot]: Images/ScreenShots/screenshot.jpg
